@@ -11,3 +11,7 @@ print("first_name") #adding string inside the print statement just named us prin
 print(f'hi, {first_name}') # We can print our varariale with other words with the help of a [f'{}] f string.
 print(f'You like {food}') #another example of f string
 print(f'This is your email - {email}')
+
+# Note: This example script demonstrates variable assignment, string formatting, and printing variables.
+user_name = "Rescue Contributor"
+print(f'Hello {user_name}, greeting output fixed!') # Corrected print statement with inline usage note
